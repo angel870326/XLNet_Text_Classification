@@ -11,3 +11,7 @@
 - 資料來源：https://blog.csdn.net/ciacai/article/details/105008287
 - 程式碼：https://github.com/ymcui/Chinese-XLNet
 
+
+## Temp
+- Simple-transformer: https://medium.com/swlh/simple-transformers-multi-class-text-classification-with-bert-roberta-xlnet-xlm-and-8b585000ce3a
+
