@@ -1,6 +1,6 @@
 # XLNet Text Classification
 
-## 1. 原始模型
+## 1. Official
 - Paper: https://paperswithcode.com/paper/xlnet-generalized-autoregressive-pretraining
 - Code: https://github.com/zihangdai/xlnet
 
