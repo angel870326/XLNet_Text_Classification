@@ -12,6 +12,6 @@
 - 程式碼：https://github.com/ymcui/Chinese-XLNet
 
 
-## Temp
-- Simple-transformer: https://medium.com/swlh/simple-transformers-multi-class-text-classification-with-bert-roberta-xlnet-xlm-and-8b585000ce3a
-
+## (Temp)Simple-transformer
+- Multi-class: https://medium.com/swlh/simple-transformers-multi-class-text-classification-with-bert-roberta-xlnet-xlm-and-8b585000ce3a
+- Multi-Label: https://towardsdatascience.com/multi-label-classification-using-bert-roberta-xlnet-xlm-and-distilbert-with-simple-transformers-b3e0cda12ce5
