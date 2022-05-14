@@ -1,7 +1,7 @@
 # XLNet Multi-class Text Classification for Chinese and English
 * Available for both multi-label and single-label classification.
 * Note: Example here is using Chinese pre-trained model, English pre-trained model is commented out.
-* Codes are modified from [here](#3-multi-label-text-classification).
+* Codes are modified from [here](#3-multi-label-text-classification-important).
 
 ## 1. Official XLNet
 - Paper: https://paperswithcode.com/paper/xlnet-generalized-autoregressive-pretraining
