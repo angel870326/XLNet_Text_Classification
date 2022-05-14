@@ -24,6 +24,8 @@ model = XLNetModel.from_pretrained('xlnet-base-cased')
 ## 4. XLNet Chinese Pre-trained Model (中文預訓練模型)
 - 資料來源：https://blog.csdn.net/ciacai/article/details/105008287
 - 程式碼：https://github.com/ymcui/Chinese-XLNet
+
+可以直接透過 transformers 使用
 ```
 !pip install transformers
 from transformers import AutoTokenizer, AutoModel
