@@ -2,7 +2,7 @@
 * Available for both multi-label and single-label classification.
 * Note: Example here is using Chinese pretrained model, English pretrained model is commented out.
 
-Codes are modified from [Multi-Label Text Classification with XLNet](##3.-Multi-label-Text-Classification)
+Codes are modified from [Multi-Label Text Classification with XLNet](#3-multi-label-text-classification)
 
 ## 1. Official XLNet
 - Paper: https://paperswithcode.com/paper/xlnet-generalized-autoregressive-pretraining
