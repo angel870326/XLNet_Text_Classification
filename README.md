@@ -4,7 +4,7 @@
 * Codes are modified from [here](#3-multi-label-text-classification-important).
 
 ## User Guide
-1. To evaluate our model, we first split the training dataset into training and testing part. ```train_test_spllit.ipynb```
+1. To evaluate our model, we first split the training dataset into training and testing part. ```train_test_split.ipynb```
 2. Use the training part to train the model and the testing part to evaluate the model. (Do any modification until you get a satisfying score.) ```xlnet_multi_class_chinese_train_product.ipynb```
 3. Use the complete training dataset to train the model, and predict classes of a new dataset (answer unknown).
 
