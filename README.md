@@ -45,3 +45,13 @@ model = AutoModel.from_pretrained("MODEL_NAME")
 |XLNet-mid|hfl/chinese-xlnet-mid|
 |XLNet-base|hfl/chinese-xlnet-base|
 
+
+## Prevent Google Colab from Disconnecting
+Right click ➡ Inspect ➡ Console
+```
+function ConnectButton(){
+    console.log("Connect pushed");
+    document.querySelector("#top-toolbar > colab-connect-button").shadowRoot.querySelector("#connect").click()
+}
+setInterval(ConnectButton,60000);
+```
