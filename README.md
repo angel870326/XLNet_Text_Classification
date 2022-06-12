@@ -1,5 +1,6 @@
 # XLNet Multi-class Text Classification for Chinese and English
 * Available for both multi-label and single-label classification.
+* Loss functions used: CrossEntropyLoss & BCEWithLogitsLoss
 * Note: Example here is using Chinese pre-trained model. English pre-trained model is commented out.
 * Codes are modified from [here](#3-multi-label-text-classification-important).
 
