@@ -6,8 +6,8 @@
 ## User Guide
 1. To evaluate our model, we first split the training dataset into training and testing part.<br/> ```train_test_split_v2.ipynb```
 2. Use the training part to train the model and the testing part to evaluate the model. (Do any modification until you get a satisfying score.)
-   - For **single-label** testing, you may use **"Cross Entropy Loss Function"**: <br/> ```product/xlnet_multi_class_chinese_train_product_single_label_ce_oversample.ipynb```
-   - For **multi-label** testing, you may use **"Binary Cross Entropy with Logits Loss Function"**: <br/>```product/xlnet_multi_class_chinese_train_product_single_label_bcel.ipynb```
+   - For **single-label** testing, you may use **"Cross Entropy Loss Function"**. <br/> ```product/xlnet_multi_class_chinese_train_product_single_label_ce_oversample.ipynb```
+   - For **multi-label** testing, you may use **"Binary Cross Entropy with Logits Loss Function"**. <br/>```product/xlnet_multi_class_chinese_train_product_single_label_bcel.ipynb```
 3. Use the complete training dataset to train the model, and predict classes of a new dataset (answer unknown).<br/> ```.ipynb```
 
 
